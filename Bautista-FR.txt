@@ -1,0 +1,6 @@
+The system shall provide at least 3 product recommendations per buyer.
+
+The system shall require facebook authentication for users to sell items.
+
+The system shall provide paypal as a payment option.
+
