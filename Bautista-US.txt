@@ -1,0 +1,6 @@
+As a customer, I want to pay through paypal, so my payment information isn’t at risk of being stolen.
+
+As a seller, I want my products recommended to users based on their preferences and past purchases, so that my products are shown to the highest propensity buyers.
+
+As an advertiser, I want my ads going to buyers in certain locations, so that my money is used effectively.
+
