@@ -1,0 +1,3 @@
+As a buyer, I want to see price comparisons to Amazon, so that I know that I am getting a good deal.
+As an advertiser, I want to taget my advertisements to buyers of certain products, so that I can effectively marget my product. 
+As a buyer, I want to have items suggested to me, so that I don't miss out on good deals I might be iterested in. 

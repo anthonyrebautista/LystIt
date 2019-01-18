@@ -1,0 +1,3 @@
+The system shall provide a place to give feedback on products and sellers.
+The system shall provide buyers and sellers login and verification.
+The system shall provide price comparisons to Amazon. 
