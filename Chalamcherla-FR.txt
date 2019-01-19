@@ -1,0 +1,3 @@
+1. The system shall provide search results based on the keywords provided. 
+2. The system shall provide recommended items based on past purchases. 
+3. The system shall provide a method of navigating between different retailer(Amazon, Craigslist, Ebay, etc) of the search results.

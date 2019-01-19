@@ -1,0 +1,6 @@
+1. As a heavy user of the marketplace website, I would like to be able to navigate through search results based on different, major retailers (amazon, ebay, craigslist, etc).
+
+2. As a basic user of the marketplace, I would like to be certain that my credentials and data are secure and private. 
+
+3. As a frugal user of the marketplace website, I would like to be able to return things with ease and also I 
+would like to be made aware of the return policy of items at the time of purchase.
