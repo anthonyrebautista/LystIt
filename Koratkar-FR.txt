@@ -1,0 +1,1 @@
+The system shall display suggested items for the customers to buy.The system shall ensure delivery of items in no more than 14 days.The system shall provide an option to reset a user’s current password.

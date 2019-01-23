@@ -1,0 +1,1 @@
+As a user, I want to see a minimum of three suggestions of what I could buy ,so that I can easily find items I might be interested in.As a user, I want to be safe from eavesdropping attacks, so that my confidential information is kept hidden.As a user, I want to be able to checkout my items with fewer than 3 clicks, so that I can quickly purchase items.
