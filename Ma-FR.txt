@@ -1,4 +1,4 @@
-System shall notify the buyer in less than 4 hours after the seller has shipped the item.
+The system shall notify the buyer in less than 4 hours after the seller has shipped the item.
 
 The system shall show at most ten items per page for every item search.
 
