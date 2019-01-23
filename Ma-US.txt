@@ -1,0 +1,6 @@
+As a user, I want to create a wish list of items I am looking for and be notified when someone is selling an item on my list, so that I do not have to keep checking for the item.s a user, I want to create a wish list of items I am looking for and be notified when someone is selling an item on my list, so that I do not have to keep checking for the item.
+
+As a user, I want to report any seller or buyer who is abusing the service or being dishonest, so that I can be sure I am buying and selling items only from trusted users.
+
+As a user, I want to voluntarily opt out of all data collection on my information, so that my data will not be given to any marketing companies.
+
