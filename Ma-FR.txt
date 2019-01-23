@@ -1,0 +1,6 @@
+System shall notify the buyer in less than 4 hours after the seller has shipped the item.
+
+The system shall show at most ten items per page for every item search.
+
+The system shall delete all items that have been posted for more than 90 days.
+
